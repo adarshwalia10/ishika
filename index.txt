@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>For Ishika, From Adarsh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 id="ishika-name">Ishika</h1>
+    </header>
+    <section id="slideshow">
+        </section>
+    <section id="quotes">
+        <p>"My love for you is like..."</p>
+    </section>
+    <section id="why-i-love">
+        </section>
+    <script src="script.js"></script>
+</body>
+</html>
